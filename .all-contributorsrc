@@ -1,0 +1,46 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "TheDavidDelta",
+      "name": "David",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6679900?v=4",
+      "profile": "https://thedaviddelta.com/",
+      "contributions": [
+        "a11y",
+        "code",
+        "doc",
+        "design",
+        "test"
+      ]
+    },
+    {
+      "login": "mhmdanas",
+      "name": "Mohammed Anas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32234660?v=4",
+      "profile": "https://github.com/mhmdanas",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "TheFrenchGhosty",
+      "name": "TheFrenchGhosty",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47571719?v=4",
+      "profile": "https://PussTheCat.org/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "lingva-translate",
+  "projectOwner": "TheDavidDelta",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
